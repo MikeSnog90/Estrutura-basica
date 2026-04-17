@@ -4,9 +4,9 @@ export const sidebarConfig = {
         { label: 'Destaques', to: '/hightlights' },
     ],
     '/dashboard': [
-        { Label: 'Métricas', to: '/dashboard' },
-        { Label: 'Relatórios', to: '/dashboard/reports' },
-        { Label: 'Exportar', to: '/dashboard/export' }, 
+        { label: 'Métricas', to: '/dashboard' },
+        { label: 'Relatórios', to: '/dashboard/reports' },
+        { label: 'Exportar', to: '/dashboard/export' },
     ],
     '/settings': [
         { label: 'Perfil', to: '/settings' },
